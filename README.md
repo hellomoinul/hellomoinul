@@ -63,9 +63,7 @@
 
 ## 📊 GitHub Stats
 
-![Moinul's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellomoinul&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=60)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellomoinul&layout=compact&theme=radical&cache_seconds=60)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=hellomoinul&theme=radical)](https://git.io/streak-stats)
 ---
 
 ### 🧭 Let's Connect
