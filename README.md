@@ -88,7 +88,7 @@
 
 <br/>
 
-> *"Seeking, gathering, observing, learning — one commit at a time."*
+> *"Seeking, gathering, observing, learning"*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:818181,100:4f46e5&height=100&section=footer" style="width:100%;"/>
