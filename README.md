@@ -73,4 +73,4 @@
 
 ---
 
-<p align="center">✨ Made with Moinul ✨</p>
+<p align="center">✨ Made by Moinul ✨</p>
