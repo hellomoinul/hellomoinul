@@ -47,8 +47,6 @@
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=niterclearanceportal&theme=tokyonight&hide_border=true" width="400"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/hellomoinul/voboghure-39a07f26">🔶 Voboghure — ভবঘুরে</a></h3>
@@ -58,8 +56,6 @@
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/Framer-05F?style=flat&logo=framer&logoColor=white" />
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=voboghure-39a07f26&theme=tokyonight&hide_border=true" width="400"/>
     </td>
   </tr>
   <tr>
@@ -68,16 +64,12 @@
       <p>My first professional portfolio website — clean, minimal, and built entirely with TypeScript.</p>
       <p><b>Tech:</b> TypeScript</p>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=hellomoinul.github.io&theme=tokyonight&hide_border=true" width="400"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/hellomoinul/Networking">📡 Networking Lab</a></h3>
       <p>Simple networking models built in Cisco Packet Tracer for BSc lab exams.</p>
       <p><b>Tech:</b> Cisco Packet Tracer</p>
       <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-049FD9?style=flat&logo=cisco&logoColor=white" />
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=Networking&theme=tokyonight&hide_border=true" width="400"/>
     </td>
   </tr>
 </table>
@@ -133,14 +125,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000000)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=000000)](#)
-
----
-
-# 🏅 Achievements
-
-<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="50" alt="Quickdraw"/> &nbsp;
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="50" alt="YOLO"/> &nbsp;
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="50" alt="Pull Shark"/>
 
 ---
 
