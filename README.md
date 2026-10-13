@@ -39,17 +39,17 @@
 
 <div align="center">
   <a href="https://github.com/hellomoinul/niterclearanceportal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=niterclearanceportal&theme=tokyonight&hide_border=true" alt="NITER Clearance Portal" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=niterclearanceportal&theme=tokyonight&hide_border=true&show_owner=true" alt="NITER Clearance Portal" />
   </a>
   <a href="https://github.com/hellomoinul/voboghure-39a07f26">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=voboghure-39a07f26&theme=tokyonight&hide_border=true" alt="Voboghure" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=voboghure-39a07f26&theme=tokyonight&hide_border=true&show_owner=true" alt="Voboghure" />
   </a>
   <br/>
   <a href="https://github.com/hellomoinul/hellomoinul.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=hellomoinul.github.io&theme=tokyonight&hide_border=true" alt="Portfolio Website" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=hellomoinul.github.io&theme=tokyonight&hide_border=true&show_owner=true" alt="Portfolio Website" />
   </a>
   <a href="https://github.com/hellomoinul/Networking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=Networking&theme=tokyonight&hide_border=true" alt="Networking Lab" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=Networking&theme=tokyonight&hide_border=true&show_owner=true" alt="Networking Lab" />
   </a>
 </div>
 
