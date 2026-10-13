@@ -37,42 +37,34 @@
 
 # 🏆 Pinned Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/hellomoinul/niterclearanceportal">🔷 NITER Clearance Portal</a></h3>
-      <p>A full-stack digital clearance management system for NITER. Students apply once, 8 offices review in parallel, and a QR-verifiable certificate is auto-issued on approval.</p>
-      <p><b>Tech:</b> React 19 · TanStack Start/Query · Supabase · Tailwind CSS v4 · shadcn/ui · Vite · Vercel</p>
-      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/hellomoinul/voboghure-39a07f26">🔶 Voboghure — ভবঘুরে</a></h3>
-      <p>A private multi-community platform where friend circles form communities, live moments together through events, and preserve them as structured stories.</p>
-      <p><b>Tech:</b> React 19 · TypeScript · Vite · Supabase · Tailwind CSS 4 · Framer Motion · shadcn/ui</p>
-      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Framer-05F?style=flat&logo=framer&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/hellomoinul/hellomoinul.github.io">🌐 Portfolio Website</a></h3>
-      <p>My first professional portfolio website — clean, minimal, and built entirely with TypeScript.</p>
-      <p><b>Tech:</b> TypeScript</p>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/hellomoinul/Networking">📡 Networking Lab</a></h3>
-      <p>Simple networking models built in Cisco Packet Tracer for BSc lab exams.</p>
-      <p><b>Tech:</b> Cisco Packet Tracer</p>
-      <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-049FD9?style=flat&logo=cisco&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/hellomoinul/niterclearanceportal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=niterclearanceportal&theme=tokyonight&hide_border=true" alt="NITER Clearance Portal" />
+  </a>
+  <a href="https://github.com/hellomoinul/voboghure-39a07f26">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=voboghure-39a07f26&theme=tokyonight&hide_border=true" alt="Voboghure" />
+  </a>
+  <br/>
+  <a href="https://github.com/hellomoinul/hellomoinul.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=hellomoinul.github.io&theme=tokyonight&hide_border=true" alt="Portfolio Website" />
+  </a>
+  <a href="https://github.com/hellomoinul/Networking">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=Networking&theme=tokyonight&hide_border=true" alt="Networking Lab" />
+  </a>
+</div>
+
+> Cards above are dynamic — description, language, stars & forks update automatically from GitHub.
+
+<details>
+<summary><b>🛠️ Tech details (static notes)</b></summary>
+<br/>
+
+- **🔷 NITER Clearance Portal** — React 19 · TanStack Start/Query · Supabase · Tailwind CSS v4 · shadcn/ui · Vite · Vercel
+- **🔶 Voboghure — ভবঘুরে** — React 19 · TypeScript · Vite · Supabase · Tailwind CSS 4 · Framer Motion · shadcn/ui
+- **🌐 Portfolio Website** — TypeScript
+- **📡 Networking Lab** — Cisco Packet Tracer
+
+</details>
 
 ---
 
@@ -94,7 +86,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=hellomoinul&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=hellomoinul&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
   </a>
 </p>
 
