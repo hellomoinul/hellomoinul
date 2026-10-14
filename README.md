@@ -111,7 +111,7 @@
 <!-- LANGS:START -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,dart,html,css,c,cpp,js&theme=dark" alt="Top languages" />
+    <img src="https://skillicons.dev/icons?i=ts,py,dart,c,cpp,css,js,html&theme=dark" alt="Top languages" />
   </a>
 </p>
 <!-- LANGS:END -->
