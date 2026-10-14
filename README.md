@@ -38,22 +38,26 @@
 # 🏆 Pinned Projects
 
 <div align="center">
-  <a href="https://github.com/hellomoinul/niterclearanceportal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=niterclearanceportal&theme=tokyonight&hide_border=true&show_owner=true" alt="NITER Clearance Portal" />
+  <a href="https://github.com/hellomoinul/fantasy_cricket_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=fantasy_cricket_app&theme=tokyonight&hide_border=true&show_owner=true" alt="Fantasy Cricket App (fork)" />
   </a>
-  <a href="https://github.com/hellomoinul/voboghure-39a07f26">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=voboghure-39a07f26&theme=tokyonight&hide_border=true&show_owner=true" alt="Voboghure" />
+  <a href="https://github.com/hellomoinul/Tax-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=Tax-Management-System&theme=tokyonight&hide_border=true&show_owner=true" alt="Tax Management System (fork)" />
   </a>
   <br/>
   <a href="https://github.com/hellomoinul/hellomoinul.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=hellomoinul.github.io&theme=tokyonight&hide_border=true&show_owner=true" alt="Portfolio Website" />
   </a>
-  <a href="https://github.com/hellomoinul/Networking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=Networking&theme=tokyonight&hide_border=true&show_owner=true" alt="Networking Lab" />
+  <a href="https://github.com/hellomoinul/voboghure-39a07f26">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=voboghure-39a07f26&theme=tokyonight&hide_border=true&show_owner=true" alt="Voboghure" />
+  </a>
+  <br/>
+  <a href="https://github.com/hellomoinul/niterclearanceportal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=niterclearanceportal&theme=tokyonight&hide_border=true&show_owner=true" alt="NITER Clearance Portal" />
   </a>
 </div>
 
-> Cards above are dynamic — description, language, stars & forks update automatically from GitHub.
+> Cards above mirror my pinned repositories — description, language, stars & forks update automatically from GitHub.
 
 <details>
 <summary><b>🛠️ Tech details (static notes)</b></summary>
@@ -62,7 +66,8 @@
 - **🔷 NITER Clearance Portal** — React 19 · TanStack Start/Query · Supabase · Tailwind CSS v4 · shadcn/ui · Vite · Vercel
 - **🔶 Voboghure — ভবঘুরে** — React 19 · TypeScript · Vite · Supabase · Tailwind CSS 4 · Framer Motion · shadcn/ui
 - **🌐 Portfolio Website** — TypeScript
-- **📡 Networking Lab** — Cisco Packet Tracer
+- **🏏 Fantasy Cricket App** *(fork)* — Flutter · Dart
+- **🧾 Tax Management System** *(fork)* — Python · MySQL
 
 </details>
 
