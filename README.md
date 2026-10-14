@@ -37,6 +37,7 @@
 
 # 🏆 Pinned Projects
 
+<!-- PINS:START -->
 <div align="center">
   <a href="https://github.com/hellomoinul/fantasy_cricket_app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=fantasy_cricket_app&theme=tokyonight&hide_border=true&show_owner=true" alt="Fantasy Cricket App (fork)" />
@@ -56,8 +57,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomoinul&repo=niterclearanceportal&theme=tokyonight&hide_border=true&show_owner=true" alt="NITER Clearance Portal" />
   </a>
 </div>
+<!-- PINS:END -->
 
-> Cards above mirror my pinned repositories — description, language, stars & forks update automatically from GitHub.
+> Cards above mirror my pinned repositories — auto-synced daily by an Action. Card contents (description, language, stars) update live from GitHub.
 
 <details>
 <summary><b>🛠️ Tech details (static notes)</b></summary>
@@ -104,13 +106,15 @@
 
 # 💻 Tech Stack
 
-**Languages**
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=000000)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=007ACC&labelColor=000000)](#)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=000000)](#)
-[![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=000000)](#)
-[![MATLAB](https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=000000)](#)
+**Languages** *(auto-synced daily from my repos)*
+
+<!-- LANGS:START -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,py,dart,html,css,c,cpp,js&theme=dark" alt="Top languages" />
+  </a>
+</p>
+<!-- LANGS:END -->
 
 **Frameworks & Libraries**
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
