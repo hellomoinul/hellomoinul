@@ -5,8 +5,7 @@
 <br/>
 
 <h1 align="center">
-  <code style="background: linear-gradient(135deg, #4f46e5, #818181); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; font-weight: bold; letter-spacing: 2px;">
-hellomoinul</code>
+  <code style="background: linear-gradient(135deg, #4f46e5, #818181); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; font-weight: bold; letter-spacing: 2px;">hellomoinul</code>
 </h1>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:818181&height=60&section=header&fontSize=0&fontColor=00000000" style="width:100%;"/>
