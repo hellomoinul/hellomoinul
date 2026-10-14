@@ -10,6 +10,10 @@ Reads:
   GITHUB_REPOSITORY         "owner/repo" (set automatically in Actions)
   PROFILE_OWNER             override for the profile owner (defaults to repo owner)
   README_PATH               path to README (defaults to README.md)
+
+Note: under GITHUB_TOKEN the script sees public repos (+ this repo), so the
+language icons reflect publicly visible work -- which is exactly what profile
+viewers can see. (A personal PAT would also count private repos.)
 """
 
 import json
@@ -128,7 +132,7 @@ def fetch_top_languages(owner):
         if not repos["pageInfo"]["hasNextPage"]:
             break
         cursor = repos["pageInfo"]["endCursor"]
-    ranked = sorted(totals.items(), key=lambda kv: kv[1], reverse=True)
+    ranked = sorted(totals.items(), key=lambda kv: (-kv[1], kv[0]))
     icons = []
     for name, _size in ranked:
         icon = LANG_ICONS.get(name)
