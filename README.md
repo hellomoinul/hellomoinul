@@ -99,7 +99,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hellomoinul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellomoinul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellomoinul&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=diabetes-risk-prediction" alt="Top Languages" height="165"/>
+  <!-- exclude_repo: .ipynb notebook JSON (outputs/images) inflates byte counts 64%+; excluded so the card reflects hand-written code -->
 </p>
 
 ---

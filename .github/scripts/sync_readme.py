@@ -115,6 +115,7 @@ def fetch_top_languages(owner):
                              isArchived: false, orderBy: {field: UPDATED_AT, direction: DESC}) {
                   pageInfo { hasNextPage endCursor }
                   nodes {
+                    isFork
                     languages(first: 20, orderBy: {field: SIZE, direction: DESC}) {
                       edges { size node { name } }
                     }
@@ -126,6 +127,8 @@ def fetch_top_languages(owner):
         )
         repos = data["user"]["repositories"]
         for node in repos["nodes"]:
+            if node["isFork"]:
+                continue  # match the top-langs card: forks don't represent own work
             for edge in node["languages"]["edges"]:
                 name = edge["node"]["name"]
                 totals[name] = totals.get(name, 0) + edge["size"]
